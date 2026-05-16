@@ -1,2 +1,2 @@
 # figma_secure_gate
-Secure Gate is a UI/UX app design that simplifies food delivery verification in gated communities using OTP authentication for residents, security guards, and delivery agents, reducing wait time and improving security.
+Secure Gate is a UI/UX mobile app design that simplifies food delivery verification in gated communities, apartments, and hostels using an OTP-based system. Instead of security guards manually calling residents for confirmation, the resident, delivery agent, and security guard receive the same OTP for quick and secure verification. This solution reduces waiting time, improves security, and creates a smoother delivery experience. Designed using Figma.
